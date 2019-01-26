@@ -9,7 +9,8 @@
         "libsodium",
         "libcryptopp",
         "redis",
-        "librdkafka"
+        "librdkafka",
+        "python-ovs"
     ],
     "black_list": [
         "python-rpm",
